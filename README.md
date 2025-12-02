@@ -38,6 +38,6 @@ An end-to-end business intelligence solution that consolidates **Finance, Sales,
 
 ## Contact
 - **Name:** Sagar Jagdale 
-- **LinkedIn:** (https://www.linkedin.com/in/sagar-jagdale-922a81290/)
+- **LinkedIn:** https://www.linkedin.com/in/sagar-jagdale-922a81290/
 - **Email:** jagdalesagar040@gmail.com
 
